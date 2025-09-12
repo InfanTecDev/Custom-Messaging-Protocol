@@ -1,4 +1,4 @@
-package com.MessagingWithSockets.Server.Model;
+package com.CustomMessagingProtocol.Server.Model;
 
 import java.io.IOException;
 import java.net.InetAddress;

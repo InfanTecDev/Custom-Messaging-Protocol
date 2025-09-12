@@ -1,4 +1,4 @@
-package com.MessagingWithSockets.Network.Protocol;
+package com.CustomMessagingProtocol.Network.Protocol;
 
 public enum MessageType {
     LOGIN, LOGOUT, PRIVATE_MESSAGE;

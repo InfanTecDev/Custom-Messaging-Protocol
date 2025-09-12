@@ -1,6 +1,6 @@
-package com.MessagingWithSockets.Server.View;
+package com.CustomMessagingProtocol.Server.View;
 
-import com.MessagingWithSockets.GenericUser.User;
+import com.CustomMessagingProtocol.GenericUser.User;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

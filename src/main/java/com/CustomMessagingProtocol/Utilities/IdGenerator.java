@@ -1,4 +1,4 @@
-package com.MessagingWithSockets.Utilities;
+package com.CustomMessagingProtocol.Utilities;
 
 import java.util.UUID;
 

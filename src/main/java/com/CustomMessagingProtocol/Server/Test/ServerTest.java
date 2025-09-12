@@ -1,9 +1,9 @@
-package com.MessagingWithSockets.Server.Test;
+package com.CustomMessagingProtocol.Server.Test;
 
-import com.MessagingWithSockets.Server.Controller.ServerController;
-import com.MessagingWithSockets.Server.Model.Server;
-import com.MessagingWithSockets.Network.NetworksUtilities;
-import com.MessagingWithSockets.Server.View.ServerView;
+import com.CustomMessagingProtocol.Server.Controller.ServerController;
+import com.CustomMessagingProtocol.Server.Model.Server;
+import com.CustomMessagingProtocol.Network.NetworksUtilities;
+import com.CustomMessagingProtocol.Server.View.ServerView;
 
 import javax.swing.*;
 import java.io.IOException;

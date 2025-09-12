@@ -1,4 +1,4 @@
-package com.MessagingWithSockets.Network.Protocol;
+package com.CustomMessagingProtocol.Network.Protocol;
 
 import java.util.Map;
 

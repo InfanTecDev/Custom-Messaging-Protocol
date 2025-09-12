@@ -1,4 +1,4 @@
-package com.MessagingWithSockets.GenericUser;
+package com.CustomMessagingProtocol.GenericUser;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

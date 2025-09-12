@@ -1,11 +1,11 @@
-package com.MessagingWithSockets.Server.Controller;
+package com.CustomMessagingProtocol.Server.Controller;
 
-import com.MessagingWithSockets.Server.Model.Server;
-import com.MessagingWithSockets.GenericUser.User;
-import com.MessagingWithSockets.Network.Protocol.MessageType;
-import com.MessagingWithSockets.Network.Protocol.ProtocolMessage;
-import com.MessagingWithSockets.Network.Protocol.ProtocolParser;
-import com.MessagingWithSockets.Server.View.ServerView;
+import com.CustomMessagingProtocol.Server.Model.Server;
+import com.CustomMessagingProtocol.GenericUser.User;
+import com.CustomMessagingProtocol.Network.Protocol.MessageType;
+import com.CustomMessagingProtocol.Network.Protocol.ProtocolMessage;
+import com.CustomMessagingProtocol.Network.Protocol.ProtocolParser;
+import com.CustomMessagingProtocol.Server.View.ServerView;
 
 import javax.swing.*;
 import java.awt.event.WindowAdapter;
