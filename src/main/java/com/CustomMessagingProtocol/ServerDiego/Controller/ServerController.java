@@ -1,11 +1,11 @@
-package com.CustomMessagingProtocol.Server.Controller;
+package com.CustomMessagingProtocol.ServerDiego.Controller;
 
-import com.CustomMessagingProtocol.Server.Model.Server;
+import com.CustomMessagingProtocol.ServerDiego.Model.Server;
 import com.CustomMessagingProtocol.GenericUser.User;
 import com.CustomMessagingProtocol.Network.Protocol.MessageType;
 import com.CustomMessagingProtocol.Network.Protocol.ProtocolMessage;
 import com.CustomMessagingProtocol.Network.Protocol.ProtocolParser;
-import com.CustomMessagingProtocol.Server.View.ServerView;
+import com.CustomMessagingProtocol.ServerDiego.View.ServerView;
 
 import javax.swing.*;
 import java.awt.event.WindowAdapter;

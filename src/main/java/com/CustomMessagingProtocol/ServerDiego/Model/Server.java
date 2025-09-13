@@ -1,4 +1,4 @@
-package com.CustomMessagingProtocol.Server.Model;
+package com.CustomMessagingProtocol.ServerDiego.Model;
 
 import java.io.IOException;
 import java.net.InetAddress;

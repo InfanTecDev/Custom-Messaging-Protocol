@@ -1,9 +1,9 @@
-package com.CustomMessagingProtocol.Server.Test;
+package com.CustomMessagingProtocol.ServerDiego.Test;
 
-import com.CustomMessagingProtocol.Server.Controller.ServerController;
-import com.CustomMessagingProtocol.Server.Model.Server;
+import com.CustomMessagingProtocol.ServerDiego.Controller.ServerController;
+import com.CustomMessagingProtocol.ServerDiego.Model.Server;
 import com.CustomMessagingProtocol.Network.NetworksUtilities;
-import com.CustomMessagingProtocol.Server.View.ServerView;
+import com.CustomMessagingProtocol.ServerDiego.View.ServerView;
 
 import javax.swing.*;
 import java.io.IOException;

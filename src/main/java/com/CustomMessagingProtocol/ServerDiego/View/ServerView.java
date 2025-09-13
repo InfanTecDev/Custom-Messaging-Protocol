@@ -1,4 +1,4 @@
-package com.CustomMessagingProtocol.Server.View;
+package com.CustomMessagingProtocol.ServerDiego.View;
 
 import com.CustomMessagingProtocol.GenericUser.User;
 
