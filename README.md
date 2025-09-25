@@ -65,18 +65,6 @@ Utilidad para serialización y deserialización de mensajes:
 - Java JDK 17 o superior
 - IDE compatible con Java (IntelliJ IDEA, Eclipse, VS Code)
 
-### Compilación
-```bash
-# Compilar el proyecto
-javac -d bin src/com/CustomMessagingProtocol/**/*.java
-
-# Ejecutar servidor
-java -cp bin com.CustomMessagingProtocol.Server.MainServer
-
-# Ejecutar cliente
-java -cp bin com.CustomMessagingProtocol.Client.MainClient
-```
-
 ### Ejemplo de Uso del Protocolo
 
 ```java
